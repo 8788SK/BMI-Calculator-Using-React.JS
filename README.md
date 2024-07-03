@@ -16,8 +16,7 @@ The BMI Calculator web application enables users to input their weight and heigh
 3. **BMI Categories**: The app categorizes the BMI result into:
    - Underweight (BMI < 25)
    - Normal weight (BMI 25.1–30.0)
-   - Overweight (BMI 25–29.9)
-   - Obese (BMI 30 or greater)
+   - Overweight (BMI 30 or greater)
 4. **Responsive Design**: A layout that adjusts to different screen sizes, providing an optimal user experience on both desktop and mobile devices.
 5. **Error Handling**: Validation to ensure that the user inputs are reasonable and provide meaningful error messages for invalid inputs.
 6. **Styling**: Modern and intuitive user interface using CSS and possibly CSS frameworks like Bootstrap or Material-UI.
