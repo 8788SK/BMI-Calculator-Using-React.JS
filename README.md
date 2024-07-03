@@ -14,7 +14,7 @@ The BMI Calculator web application enables users to input their weight and heigh
    \]
    or the equivalent in pounds and inches.
 3. **BMI Categories**: The app categorizes the BMI result into:
-   - Underweight (BMI < 18.5)
+   - Underweight (BMI < 25)
    - Normal weight (BMI 18.5–24.9)
    - Overweight (BMI 25–29.9)
    - Obese (BMI 30 or greater)
