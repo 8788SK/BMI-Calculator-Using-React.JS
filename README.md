@@ -24,7 +24,7 @@ The BMI Calculator web application enables users to input their weight and heigh
 ### Technical Details
 - **React Components**: The application is built with React components, separating the logic and UI for better maintainability.
 - **State Management**: Utilizing React’s state and props to manage input data and calculated results.
-- **Hooks**: Using React hooks like `useState` and `useEffect` to manage state and lifecycle events.
+- **Hooks**: Using React hooks like `useState` to manage state and lifecycle events.
 - **Styling**: Implementing CSS-in-JS or external stylesheets to style components.
 
 ### Implementation Steps
